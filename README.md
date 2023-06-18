@@ -1,6 +1,7 @@
 Hello!!! Sou o Samuell Aguiar e esse é o meu perfil do GitHub.
 
 🤓 Atualmente estou cursando Sistemas de Informação pela UFOP!
+<br>
 ✍ Tenho estudado Python e analise de dados!
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=tokyonight)
