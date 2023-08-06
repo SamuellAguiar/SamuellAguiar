@@ -1,5 +1,6 @@
 ## Olá, meu nome é <strong>Samuell!</strong>
 
+![](https://komarev.com/ghpvc/?username=SamuellAguiar&color=006bed)
 🤓 Atualmente estou cursando Sistemas de Informação pela UFOP!
 
 <br>
@@ -12,8 +13,9 @@
 <code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
-
-
+<a href="https://github.com/SamuellAguiar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
 
 <p align="left">
