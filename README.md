@@ -14,7 +14,7 @@
 <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
 <a href="https://github.com/SamuellAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&theme=dracula&show_icons=true" />
 </a>
 
 
