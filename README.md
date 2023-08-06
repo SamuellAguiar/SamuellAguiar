@@ -17,7 +17,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=SamuellAguiar&color=006bed)
+[![card](https://github-readme-stats.vercel.app/api?username=SamuellAguiar&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left">
   
