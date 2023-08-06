@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/samuell-aguiar-8140b0208/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://www.discord.gg/SamAguiar" target="_blank">
+  <a href="https://www.discord.gg/SamAguiar" alt="Discord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
 
   <a href="https://www.instagram.com/samuell.ag/" alt="Instagram">
