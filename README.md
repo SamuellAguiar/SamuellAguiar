@@ -1,7 +1,8 @@
 ## Olá, meu nome é <strong>Samuell!</strong>
 
-🤓 Atualmente estou cursando Sistemas de Informação pela UFOP!
-
+- 🤓 Estou cursando Sistemas de Informação pela UFOP!
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🔭 Atualmente estou trabalhando em um Iniciação Científica com analíse de dados em Python
 <br>
 
 ## ✍ Tenho Estudado
