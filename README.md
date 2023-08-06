@@ -1,4 +1,5 @@
 ## Olá, meu nome é <strong>Samuell!</strong>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=SamuellAguiar alt=SamuellAguiar/> </p>
 <p>
   - 🤔 Sempre explorando novas tecnologias e desenvolvendo soluções de software. <br>
   - 🤓 Estou cursando Sistemas de Informação pela UFOP!<br>
