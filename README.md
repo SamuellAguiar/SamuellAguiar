@@ -18,9 +18,14 @@
 <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code>
 <code><img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 
+<p align="center">
 <a href="https://github.com/SamuellAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&theme=dracula&show_icons=true" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&theme=github_light&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
+<a href="https://github.com/SamuellAguiar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&theme=github_light&layout=compact" />
+</a>
+</p>
 <br>
 <p align="left">
   
