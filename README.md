@@ -22,9 +22,6 @@
 <a href="https://github.com/SamuellAguiar">
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&theme=github_light&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/SamuellAguiar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&theme=github_light&layout=compact" />
-</a>
 </p>
 <br>
 <p align="left">
