@@ -7,9 +7,7 @@
   <br>
 </p>
 
-## ✍ Tenho Estudado
-<code><img height="32" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
-<code><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Studying&fontSize=16&lineCount=1&line1=react%2Creact%2C971d1d%3Btypescript%2Ctypescript%2C2d928e%3B" alt="Studying" />
 
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
