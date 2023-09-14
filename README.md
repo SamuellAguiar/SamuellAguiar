@@ -25,16 +25,18 @@
 
 
 <div>
-  <h2>Contacts</h2>
-  <a href="https://linkedin.com/in/samuell-aguiar/">	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="https://www.instagram.com/samuell.ag/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-</div>
-
-<p align="left">
+  <p align="left">
 <a href="https://github.com/SamuellAguiar">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&layout=compact&langs_count=7&theme=dark"/>
 </p>  
+</div>
+
+<div>
+  <h2>Contacts</h2>
+  <a href="https://linkedin.com/in/samuell-aguiar/">	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.instagram.com/samuell.ag/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+</div>
   
 <hr>
 
