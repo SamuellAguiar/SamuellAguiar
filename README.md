@@ -7,9 +7,11 @@
   <br>
 </p>
 
+<div>
 <p align="center">
 <a href="https://github.com/SamuellAguiar">
-<img align="left" height="165" src="https://github-readme-stats.vercel.app/api?      username=SamuellAguiar&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
+<img align="left" height="165" src="https://github-readme-stats.vercel.app/api?   username=SamuellAguiar&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true"/>
 </a>
 </p>
+</div>
 <br>
