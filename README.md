@@ -6,19 +6,10 @@
   - 🔭 Atualmente estou trabalhando em um Iniciação Científica com analíse de dados em Python.
   <br>
 </p>
-<div>
-    
-</div>
 
-<div>
-    
-</div>
-
-<div>
-    <p align="center">
-      <a href="https://github.com/SamuellAguiar">
+<p align="center">
+<a href="https://github.com/SamuellAguiar">
 <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?      username=SamuellAguiar&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
-    </a>
-  </p>
-</div>
+</a>
+</p>
 <br>
