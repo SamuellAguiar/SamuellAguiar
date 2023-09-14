@@ -5,7 +5,7 @@
   - 🤓 Estou cursando Sistemas de Informação pela UFOP!<br>
   <br>
 </p>
-<hr>
+
 <div>
   <h2>Main Skills</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,5 +28,5 @@
 <div>
   <h2>Contacts</h2>
   <a href="https://linkedin.com/in/samuell-aguiar/">	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href=""> </a>
+  <a href="https://www.instagram.com/samuell.ag/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </div>
