@@ -1,5 +1,4 @@
 ## ✍Olá, meu nome é <strong>Samuell!</strong>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=SamuellAguiar alt=SamuellAguiar/> </p>
 <p>
   - 🤔 Sempre explorando novas tecnologias e desenvolvendo soluções de software. <br>
   - 🤓 Estou cursando Sistemas de Informação pela UFOP!<br>
@@ -23,10 +22,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-<hr>
+
 
 <div>
   <h2>Contacts</h2>
   <a href="https://linkedin.com/in/samuell-aguiar/">	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://www.instagram.com/samuell.ag/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </div>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=SamuellAguiar alt=SamuellAguiar/> </p>
