@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/samuell.ag/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </div>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/SamuellAguiar">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&layout=compact&langs_count=7&theme=dark"/>
