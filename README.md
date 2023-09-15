@@ -1,5 +1,5 @@
-<p>
-  - 🤓 Hello! I'm currently studying at the <a href="https://ufop.br/">UFOP</a>, in the fourth period of Information Systems.<br>
+<p align-item="center">
+  Hello! I'm currently a student of <a href="https://ufop.br/">UFOP</a>, in the fourth period of Information Systems.<br>
 </p>
 
 <div>
