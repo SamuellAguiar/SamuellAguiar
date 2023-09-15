@@ -1,7 +1,5 @@
-## ✍Olá, meu nome é <strong>Samuell!</strong>
 <p>
-  - 🤔 Sempre explorando novas tecnologias e desenvolvendo soluções de software. <br>
-  - 🤓 Estou cursando Sistemas de Informação pela UFOP!<br>
+  - 🤓 Hello! I'm currently studying at the <a href="https://ufop.br/">UFOP</a>, in the fourth period of Information Systems.<br>
   <br>
 </p>
 
@@ -47,6 +45,7 @@
   <a href="https://www.instagram.com/samuell.ag/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=href="https://www.instagram.com/samuell.ag/""/></a>
 
+<br/>
   <p align="left"> <img src=https://komarev.com/ghpvc/?username=SamuellAguiar alt=SamuellAguiar/> </p>
 </div>
   
