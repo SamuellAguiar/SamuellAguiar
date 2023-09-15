@@ -35,10 +35,18 @@
 
 <div>
   <h2>📲Contacts</h2>
-  <a href="https://linkedin.com/in/samuell-aguiar/">	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="https://www.instagram.com/samuell.ag/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-  <a href="mailto:samuellcarlosaguiar@gmail.com" alt="Gmail"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5531982089884" alt="WhatsApp"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:samuellcarlosaguiar@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:samuellcarlosaguiar@gmail.com" /></a>
+  
+  <a href="https://linkedin.com/in/samuell-aguiar/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuell-aguiar/" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5531982089884" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531982089884"/></a>
+
+  <a href="https://www.instagram.com/samuell.ag/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=href="https://www.instagram.com/samuell.ag/""/></a>
+
   <p align="left"> <img src=https://komarev.com/ghpvc/?username=SamuellAguiar alt=SamuellAguiar/> </p>
 </div>
   
