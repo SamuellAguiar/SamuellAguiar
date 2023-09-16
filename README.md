@@ -6,6 +6,8 @@
   • Main Skills:&nbsp;
   <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="c" src="https://github.com/devicons/devicon/blob/master/icons/jc/c-original.svg" width="20" height="20"/>&nbsp;
+  
 </p>
 
 <p>
