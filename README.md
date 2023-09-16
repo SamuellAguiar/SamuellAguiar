@@ -26,6 +26,7 @@
    <img align="center" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="20" height="20"/>&nbsp;
 </p>
 
+<hr/>
 <div>
   <p align="center">
 <a href="https://github.com/SamuellAguiar">
