@@ -14,6 +14,13 @@
   <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
 </p>
 
+<p>
+  • Studying:&nbsp;
+  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20"/>&nbsp;&#8259;
+   <img align="center" alt="sql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20" height="20"/>&nbsp;
+</p>
+
 <div>
   <p align="left">
 <a href="https://github.com/SamuellAguiar">
