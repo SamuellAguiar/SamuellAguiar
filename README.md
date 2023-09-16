@@ -14,17 +14,6 @@
   <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
 </p>
 
-
-<p>
-  <h2>📖Studying</h2>
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<hr/>
-
 <div>
   <p align="left">
 <a href="https://github.com/SamuellAguiar">
