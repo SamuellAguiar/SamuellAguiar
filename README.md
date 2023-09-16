@@ -2,6 +2,7 @@
   Hello! I'm currently a student of <a href="https://ufop.br/">UFOP</a>, in the fourth period of Information Systems.<br>
 </p>
 
+<br/>
 <p align="center">
   • Main Skills:&nbsp;
   <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;&#8259;
@@ -34,7 +35,6 @@
 </div>
 
 <div align="center">
-  <h2>📲Contacts</h2>
   <a href="mailto:samuellcarlosaguiar@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:samuellcarlosaguiar@gmail.com" /></a>
   
