@@ -15,7 +15,7 @@
   <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
    <img align="center" alt="sql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20" height="20"/>&nbsp;&#8259;
-   <img align="center" alt="wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="20" height="20"/>&nbsp;
+   <img align="center" alt="wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="20" height="20"/>&nbsp;
 </p>
 
 <p>
