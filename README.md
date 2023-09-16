@@ -3,23 +3,23 @@
 </p>
 
 <div>
-  <h2>🚀Main Skills</h2>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  • Main Skills:&nbsp;
+  <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp;&#8259;
 </div>
 
+<div>
+  • Librares & Tolls:&nbsp;
+  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
+</div>
+
+<div>
+  • Studying:&nbsp;
+  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20"/>&nbsp;&#8259;
+  <img align="center" alt="sql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20" height="20"/>&nbsp;
+</div>
 
 <div>
   <h2>📖Studying</h2>
