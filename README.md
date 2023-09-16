@@ -2,7 +2,6 @@
   Hello! I'm currently a student of <a href="https://ufop.br/">UFOP</a>, in the fourth period of Information Systems.<br>
 </p>
 
-<hr/>
 <p align="center">
   • Main Skills:&nbsp;
   <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;&#8259;
