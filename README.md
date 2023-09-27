@@ -6,15 +6,14 @@
   • Main Skills:&nbsp;
   <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20"/>&nbsp;
+  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;
+
   
   
 </p>
 
 <p align="center">
   • Other Librares & Tolls:&nbsp;
-  <img align="center" alt="sql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="20" height="20"/>&nbsp;
