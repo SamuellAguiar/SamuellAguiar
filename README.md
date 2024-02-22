@@ -1,5 +1,5 @@
 <p align="center">
-  Hello! I'm currently a student of <a href="https://ufop.br/">UFOP</a>, in the fourth period of Information Systems.<br>
+  Hello! I'm currently a student of <a href="https://ufop.br/">UFOP</a>,  of Information Systems.<br>
 </p>
 
 <p align="center">
