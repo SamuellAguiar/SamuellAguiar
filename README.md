@@ -15,7 +15,7 @@
 
 <p align="center">
   • Studying:&nbsp;
-   <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="20" height="20"/>&nbsp;         
+   <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp;&#8259;
 </p>
 
 <hr/>
