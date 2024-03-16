@@ -1,8 +1,8 @@
-<p align="keft">
+<p align="left">
   Hello! I'm currently a student of <a href="https://ufop.br/">UFOP</a>,  of Information Systems.<br>
 </p>
 
-<p align="left">
+<p align="center">
   • Librares & Tolls:&nbsp;
   <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;&#8259;
