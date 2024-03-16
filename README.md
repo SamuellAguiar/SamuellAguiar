@@ -28,12 +28,12 @@
 </div>
 
 <hr/>
-<div align="left">
+<div align="center">
   <a href="mailto:samuellcarlosaguiar@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:samuellcarlosaguiar@gmail.com" /></a>
   
   <a href="https://linkedin.com/in/samuell-aguiar/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuell-aguiar/" /></a>
 
-  <p align="left"> <img src=https://komarev.com/ghpvc/?username=SamuellAguiar alt=SamuellAguiar/> </p>
+  <p align="center"> <img src=https://komarev.com/ghpvc/?username=SamuellAguiar alt=SamuellAguiar/> </p>
 </div>
