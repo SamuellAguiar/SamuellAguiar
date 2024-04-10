@@ -9,7 +9,6 @@
   <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="20" height="20"/>&nbsp;&#8259;
   <img align="center" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="20" height="20"/>&nbsp;
 </p>
 
