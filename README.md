@@ -27,7 +27,7 @@
 ### ✍️Estuding
 <p>
   <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" width="50" height="50"/>&#8259;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img align="center" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50"/>
 </p>
 
 #
