@@ -40,8 +40,7 @@
   <img height="210cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&theme=dark">
   <img height="210cm" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=dark">
 </p>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuellAguiar&theme=dark"> <br/>
- <img src="https://komarev.com/ghpvc/?username=SamuellAguiar"/>
+  <img src="https://komarev.com/ghpvc/?username=SamuellAguiar"/>
 </div>
 
 
