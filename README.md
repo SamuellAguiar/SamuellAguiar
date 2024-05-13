@@ -35,20 +35,17 @@
 
 ### 📈 Github Stats
 
-
 <div>
 <p>
   <img height="210cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </p>
   <p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SamuellAguiar&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
+   <img height="210cm" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuellAguiar&theme=dark&hide_border=true">
   </p>
   <img src="https://komarev.com/ghpvc/?username=SamuellAguiar"/>
+  
     
 </div>
-
-
-
 
 #
 
