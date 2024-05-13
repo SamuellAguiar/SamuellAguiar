@@ -38,8 +38,8 @@
 
 <div>
 <p>
-  <img height="210cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&theme=dark">
-  <img height="210cm" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=dark">
+  <img height="210cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <img height="210cm" src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&theme=dark&show_icons=true&hide_border=true&count_private=true">
 </p>
   <p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SamuellAguiar&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
