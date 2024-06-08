@@ -1,62 +1,74 @@
-#
-<h1 align="center">Hey there👋 I am Samuell!</h1>
-<h3 align="center"></h3>
+<h3 align="left">Hey there👋 I am Samuell!</h3>
 
-### 🧑‍💻About Me
-🚀 Currently student of Information Systems at [UFOP](https://ufop.br/)<br/>
-🌱 Learning Python for WEB Development<br/>
-👯 Looking for opportunities to learn more and put into practice everything I've learned
+###
 
-#
+<h4 align="left">🧑‍💻About Me</h4>
 
+###
 
-### 🛠 Tech Stack
+<p align="left">🚀 Currently student of Information Systems at UFOP<br>🌱 Learning Python for WEB Development<br>👯 Looking for opportunities to learn more and put into practice everything I've learned</p>
 
-<p>
-  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/>&#8259;
-  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/>&#8259;
-  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&#8259;
-  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>&#8259;
-  <img align="center" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50"/>&#8259;
-  <img align="center" alt="vscode" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/>&#8259;
-  <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
-          
-</p>
+###
 
-#
+<h3 align="left">Tech Stack</h3>
 
-### ✍️Estuding
-<p>
-  <img align="center" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" />&#8259;
-  <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
-          
-</p>
+###
 
-#
-
-### 📈 Github Stats
-
-<div>
-<p>
-  <img height="210cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellAguiar&theme=dark&show_icons=true&hide_border=true&layout=compact">
-</p>
-  <p>
-   <img height="210cm" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuellAguiar&theme=dark&hide_border=true">
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=SamuellAguiar"/>
-  
-    
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-#
+###
 
-### ☕ Let's Connect
-  <a href="mailto:samuellcarlosaguiar@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<h3 align="left">Studing</h3>
 
-  <a href="https://www.linkedin.com/in/samuell-aguiar/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
+
+###
+
+<h3 align="left">📈 Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuellAguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">☕ Let's Connect</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/samuell-aguiar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
-#
+  <a href="samuellcarlosaguiar@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/samuell.ag/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
