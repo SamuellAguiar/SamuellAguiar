@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">🤳Tech Stack</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Studing</h3>
+<h3 align="left">🤓Studing</h3>
 
 ###
 
