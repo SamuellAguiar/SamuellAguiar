@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Currently student of Information Systems at UFOP<br>🌱 Learning Python for WEB Development<br>👯 Looking for opportunities to learn more and put into practice everything I've learned</p>
+<p align="left">🚀 Currently student of Information Systems at UFOP<br>🌱 Learning Node.js for WEB Development<br>👯 Looking for opportunities to learn more and put into practice everything I've learned</p>
 
 ###
 
@@ -37,9 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />  
 </div>
 
 ###
