@@ -43,7 +43,7 @@
 
 ###
 
-- 🏋️‍♂️ [Sistema de Gestão de Aluguel de Aparelhos de Musculação](https://github.com/SamuellAguiar/Trabalho_ES_I)  
+- 🏋️‍♂️ [Sistema de Gestão de Aluguel de Aparelhos de Musculação](https://github.com/SamuellAguiar/Trab_Engenharia_Sof_II)  
   Projeto desenvolvido em equipe para a disciplina de Engenharia de Software II. O sistema permite o aluguel de equipamentos fitness com planos personalizados, gestão de pedidos, contratos e integração com meios de pagamento.
 
 - 🍕 [Sistema de Pedidos de Pizza Personalizada](https://github.com/SamuellAguiar/Trabalho_ES_I)  
