@@ -80,6 +80,12 @@
 
 ###
 
+📘 This README is also available in English [here](https://github.com/SamuellAguiar/README_en)
+
+###
+
+###
+
 > _"Aprender é conquistar algo que será sempre seu."_
 
 ###
