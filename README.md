@@ -45,8 +45,8 @@
 
 ###
 
-- 🏋️‍♂️ [Sistema de Gestão de Aluguel de Aparelhos de Musculação](https://github.com/SamuellAguiar/Trab_Engenharia_Sof_II)  
-  Projeto desenvolvido em equipe para a disciplina de Engenharia de Software II. O sistema permite o aluguel de equipamentos fitness com planos personalizados, gestão de pedidos, contratos e integração com meios de pagamento.
+- 🌐 [Meu Portfólio](https://samuellaguiar.vercel.app/)  
+  Site pessoal desenvolvido para apresentar meus projetos, experiências e habilidades. Conta com design responsivo, integração com GitHub e seção de contato.
 
 - 🍕 [Sistema de Pedidos de Pizza Personalizada](https://github.com/SamuellAguiar/Trabalho_ES_I)  
   Aplicação web onde o usuário pode montar e personalizar sua pizza em tempo real, com visualização de preço e carrinho. Conta também com um painel de administrador para gerenciamento de pedidos, ingredientes, usuários e geração de relatórios.
