@@ -23,3 +23,7 @@
 ---
 
 *"Aprender é conquistar algo que será sempre seu."*
+
+---
+
+[![English Version](https://img.shields.io/badge/🌐-Read%20in%20English-blue)](https://github.com/SamuellAguiar/README_en)
