@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![jupyter](https://img.shields.io/badge/-jupyter-b5b5b5?style=flat-square&logo=jupyter)
+![jupyter](https://img.shields.io/badge/-jupyter-181717?style=flat-square&logo=jupyter)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
