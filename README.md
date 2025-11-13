@@ -34,15 +34,22 @@
 ---
 
 ### 🎯 **Objetivo**  
-* Atualmente, busco uma **oportunidade de estágio ou trainee em desenvolvimento web**, para aplicar e expandir minhas habilidades em um ambiente colaborativo.
+* Atualmente, busco uma **oportunidade de estágio em desenvolvimento web**, para aplicar e expandir minhas habilidades em um ambiente colaborativo.
   
   * Quero aprender com profissionais experientes, evoluir tecnicamente e contribuir para a entrega de resultados de valor.  
 
 ---
 
-![Samuell GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=transparent)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuellAguiar&theme=react-dark)
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=transparent" 
+       alt="Samuell GitHub stats" 
+       height="210em"/>
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=SamuellAguiar&theme=react-dark" 
+       alt="GitHub Activity Graph" 
+       height="240em" />
+</div>
 
 ---
 
