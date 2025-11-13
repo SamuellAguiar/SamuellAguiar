@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=header&text=Olá,%20eu%20sou%20o%20Samuell%20Aguiar&fontColor=000000&fontSize=40&fontAlignY=35&fontAlign=50&descAlign=50&descAlignY=55)
 
-- Estudante de **Sistemas de Informação** na **UFOP**  
-- Apaixonado por tecnologia, aprendizado contínuo e criação de soluções práticas  
-- Busco sempre transformar ideias em projetos úteis e colocar em prática o que estudo  
+### 🚀 Sobre mim  
+
+* Sou estudante de **Sistemas de Informação na UFOP** e **Desenvolvedor Full Stack** em formação, apaixonado por criar soluções digitais que unam **design**, **performance** e **usabilidade**.
+  * Sou uma pessoa **curiosa**, **comunicativa** e **comprometida** com o que faz.
+    
+* Desde que iniciei na área, venho me dedicando ao desenvolvimento de projetos modernos e funcionais — sempre buscando aprender algo novo a cada desafio.  
+  * Acredito que cada projeto é uma oportunidade de crescimento — e que o **aprendizado contínuo é o que move a tecnologia**.  
 
 ---
 
@@ -26,6 +30,14 @@
 
 #### ⚒️ Outros
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+
+---
+
+### 🎯 **Objetivo**  
+* Atualmente, busco uma **oportunidade de estágio ou trainee em desenvolvimento web**, para aplicar e expandir minhas habilidades em um ambiente colaborativo.
+  
+  * Quero aprender com profissionais experientes, evoluir tecnicamente e contribuir para a entrega de resultados de valor.  
+
 ---
 
 ![Samuell GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=transparent)
