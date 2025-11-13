@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Samuell!
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=header&text=Olá,%20eu%20sou%20o%20Samuell%20Aguiar&fontColor=000000&fontSize=40&fontAlignY=35&fontAlign=50&descAlign=50&descAlignY=55)
 
 - Estudante de **Sistemas de Informação** na **UFOP**  
 - Apaixonado por tecnologia, aprendizado contínuo e criação de soluções práticas  
@@ -8,28 +8,29 @@
 
 ### 🔧 Tecnologias 
 
-#### 💻 Front End
+#### 🎨 Front End
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"> 
 
 #### ⚙️ Back End
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
 
-#### 🎲 Dados
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Jupyter-F3F3F3?logo=jupyter&logoColor=Ffa500"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+#### 📊  Dados
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jupyter-F3F3F3?logo=jupyter&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> 
 
 #### ⚒️ Outros
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 ---
 
-![Samuell GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=radical)
+![Samuell GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=transparent)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuellAguiar&theme=react-dark)
 
 ---
 
