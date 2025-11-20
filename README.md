@@ -6,7 +6,14 @@
   * Sou uma pessoa **curiosa**, **comunicativa** e **comprometida** com o que faz.
     
 * Desde que iniciei na área, venho me dedicando ao desenvolvimento de projetos modernos e funcionais — sempre buscando aprender algo novo a cada desafio.  
-  * Acredito que cada projeto é uma oportunidade de crescimento — e que o **aprendizado contínuo é o que move a tecnologia**.  
+  * Acredito que cada projeto é uma oportunidade de crescimento — e que o **aprendizado contínuo é o que move a tecnologia**.
+ 
+---
+### ✏️ Estudando
+
+* Atualmente estou estudando:
+
+ [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)   [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 
 ---
 
