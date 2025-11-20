@@ -9,6 +9,7 @@
   * Acredito que cada projeto é uma oportunidade de crescimento — e que o **aprendizado contínuo é o que move a tecnologia**.
  
 ---
+
 ### ✏️ Estudando
 
 * Atualmente estou estudando:
