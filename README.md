@@ -53,10 +53,6 @@
 
 <div align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=SamuellAguiar&show_icons=true&theme=transparent" 
-       alt="Samuell GitHub stats" 
-       height="210em"/>
-  <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=SamuellAguiar&theme=react-dark" 
        alt="GitHub Activity Graph" 
        height="240em" />
