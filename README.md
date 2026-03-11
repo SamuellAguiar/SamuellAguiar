@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=header&text=Olá,%20eu%20sou%20o%20Samuell%20Aguiar&fontColor=000000&fontSize=40&fontAlignY=35&fontAlign=50&descAlign=50&descAlignY=55)
 
-### 🚀 Sobre mim  
+### Sobre mim  
 
 * Sou estudante de **Sistemas de Informação na UFOP** e **Desenvolvedor Full Stack** em formação, apaixonado por criar soluções digitais que unam **design**, **performance** e **usabilidade**.
   * Sou uma pessoa **curiosa**, **comunicativa** e **comprometida** com o que faz.
@@ -10,7 +10,7 @@
  
 ---
 
-### ✏️ Estudando
+### Estudando
 
 * Atualmente estou estudando:
 
@@ -20,25 +20,25 @@
 
 ---
 
-### 🔧 Tecnologias 
+### Tecnologias 
 
-#### 🎨 Front End
+#### Front End
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
-#### ⚙️ Back End
+#### Back End
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
-#### 📊 Dados
+#### Dados
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
-#### ⚒️ Ferramentas
+#### Ferramentas
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -48,7 +48,7 @@
 
 ---
 
-### 🎯 **Objetivo**  
+### **Objetivo**  
 * Atualmente, busco uma **oportunidade de estágio em desenvolvimento web**, para aplicar e expandir minhas habilidades em um ambiente colaborativo.
   
   * Quero aprender com profissionais experientes, evoluir tecnicamente e contribuir para a entrega de resultados de valor.  
@@ -64,7 +64,7 @@
 
 ---
 
-### 🌍 Onde me encontrar
+### Onde me encontrar
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/samuell-aguiar/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/samuell.ag/) 	[![Google](https://img.shields.io/badge/Portfolio-4285F4?logo=google&logoColor=white)](https://samuellaguiar.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5531982089884)
 
@@ -73,4 +73,3 @@
 *"Aprender é conquistar algo que será sempre seu."*
 
 [![English Version](https://img.shields.io/badge/🌐-Read%20in%20English-blue)](https://github.com/SamuellAguiar/README_en)
-
