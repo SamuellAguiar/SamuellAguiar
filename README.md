@@ -48,13 +48,6 @@
 
 ---
 
-### **Objetivo**  
-* Atualmente, busco uma **oportunidade de estágio em desenvolvimento web**, para aplicar e expandir minhas habilidades em um ambiente colaborativo.
-  
-  * Quero aprender com profissionais experientes, evoluir tecnicamente e contribuir para a entrega de resultados de valor.  
-
----
-
 <div align="center">
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=SamuellAguiar&theme=react-dark" 
@@ -71,5 +64,3 @@
 ---
 
 *"Aprender é conquistar algo que será sempre seu."*
-
-[![English Version](https://img.shields.io/badge/🌐-Read%20in%20English-blue)](https://github.com/SamuellAguiar/README_en)
